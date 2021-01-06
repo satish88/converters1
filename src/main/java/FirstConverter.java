@@ -6,4 +6,6 @@ public class FirstConverter {
     // to convert inch to centimeter
     // issue fix
     //code to control conversion from inch to centimeter
+
+    //code to control conversion from inch to meter
 }
